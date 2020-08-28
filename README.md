@@ -6,7 +6,7 @@
 
 # github 폴더에 youtobe 동영상 과  Thumbnail 등록 하기
 
-![photo1](https://user-images.githubusercontent.com/65337956/91557619-c7be4a80-e96f-11ea-8ea2-caed0cc2b000.JPG)
-![photo2](https://user-images.githubusercontent.com/65337956/91557625-c9880e00-e96f-11ea-9abc-b2c43fa4f790.JPG)
-![photo3](https://user-images.githubusercontent.com/65337956/91557631-cab93b00-e96f-11ea-865b-726c3fca334f.JPG)
-![photo4](https://user-images.githubusercontent.com/65337956/91557634-cbea6800-e96f-11ea-991a-a16c8cc7795b.JPG)
+![photo1](https://user-images.githubusercontent.com/65337956/91558235-ed981f00-e970-11ea-8534-7229734d02ca.JPG)
+![photo2](https://user-images.githubusercontent.com/65337956/91558236-ef61e280-e970-11ea-85d9-e1c95d7e633d.JPG)
+![photo3](https://user-images.githubusercontent.com/65337956/91558238-f0930f80-e970-11ea-84cc-7d7f9666905b.JPG)
+![photo4](https://user-images.githubusercontent.com/65337956/91558241-f25cd300-e970-11ea-92c0-babccee59bf2.JPG)
