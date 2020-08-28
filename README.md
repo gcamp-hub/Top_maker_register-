@@ -4,7 +4,7 @@
 
 
 
-# Thumbnail 동영상 등록 하기
+# github 폴더에 youtobe 동영상 과  Thumbnail 등록 하기
 
 ![photo1](https://user-images.githubusercontent.com/65337956/91557619-c7be4a80-e96f-11ea-8ea2-caed0cc2b000.JPG)
 ![photo2](https://user-images.githubusercontent.com/65337956/91557625-c9880e00-e96f-11ea-9abc-b2c43fa4f790.JPG)
