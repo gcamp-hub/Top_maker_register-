@@ -1,6 +1,6 @@
-# [어쩌다 하루] 메이커스페이스 G캠프! 2020 창업 트렌드는 
+# 2020년 서울하드웨어해커톤 -LPWA편- 팀 인터뷰 : FP
+[![Watch the video](https://img.youtube.com/vi/l9dvRO4mPWM/hqdefault.jpg)](https://www.youtube.com/watch?v=l9dvRO4mPWM)
 
-[![Watch the video](https://img.youtube.com/vi/8US1n4SjDgw/hqdefault.jpg)](https://www.youtube.com/watch?v=8US1n4SjDgw)
 
 =======================================================
 
